@@ -19,8 +19,8 @@ locale                   : "South Korea"
 title                    : "연구노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "엔지니어 & 디자이너 (ENDY)"
-description              : "기계와 예술의 조화를 추구하는 삶"
+name                     : # 
+description              : #
 url                      : https://devryujc.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
