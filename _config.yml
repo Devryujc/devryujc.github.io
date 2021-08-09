@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "엔지니어 & 디자이너 (ENDY)"
+  name             : "엔지니어 & 디자이너"
   avatar           : # "/assets/images/CERN.jpg"
-  bio              : "기계와 예술의 조화를 추구하는 삶"
+  bio              : "기술을 예술의 경지로 구현하자"
   location         : "South Korea"
   email            :
   links:
