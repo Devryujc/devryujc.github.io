@@ -6,6 +6,7 @@ layout: single
 
 ## 삶의 모토
 - Few, but ripe.
+- Read much, not many books.
 
 ## 추구하는 바
 - 사이언티스트보단 엔지니어, 아티스트보단 디자이너
